@@ -2,5 +2,4 @@ streamlit==1.12.2
 pandas==1.4.4
 Pillow==9.2.0
 pickle5==0.0.12
-subprocess32==3.5.4
-pybase64==1.2.3
+base58==2.1.1
